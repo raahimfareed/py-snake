@@ -1,3 +1,2 @@
-# Snake game
-Using Python
-Used PyGame, Math, Random
+# Snake game in Python
+### Using PyGame
