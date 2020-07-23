@@ -44,8 +44,6 @@ while run:
     pygame.time.delay(80)
     window.fill(window_bg_color)
     if eat_food:
-        player_length += 1
-        print(player_length)
         food_x = random.randint(0, window_size[0])
         food_y = random.randint(0, window_size[1])
 
